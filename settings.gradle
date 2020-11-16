@@ -1,0 +1,3 @@
+rootProject.name='HelloPermissions'
+include ':app'
+include ':hello'

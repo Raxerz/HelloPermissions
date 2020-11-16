@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.raxerz.hello" >
+    <application>
+        <activity
+            android:name=".PlaceholderActivity"
+            android:noHistory="true"
+            android:theme="@style/Hello.Theme.Transparent"
+            android:launchMode="singleInstance"/>
+    </application>
+
+</manifest>
